@@ -1,0 +1,5 @@
+str1=input("Enter str1:")
+substr1=input("Enter substr1:")
+substr2=input("Enter substr2:")
+str1=str1.replace(substr1, substr2)
+print("str1:",str1)
