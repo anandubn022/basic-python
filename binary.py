@@ -1,4 +1,4 @@
-# bitwise right shift based on no of spikes
+# take a list of integers and decreases each number by performing a bitwise right-shift based on a user-defined number of spikes
 n=int(input("Enter the number of numbers : "))
 a=[]
 for i in range(n):
