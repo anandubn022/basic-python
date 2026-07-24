@@ -1,3 +1,4 @@
+# bitwise right shift based on no of spikes
 n=int(input("Enter the number of numbers : "))
 a=[]
 for i in range(n):
