@@ -4,6 +4,7 @@ class Employee:
         self.last = last
         self.pay = pay
 
+    # treat method as attribute
     @property
     def fullname(self):
         return self.first + " " + self.last
