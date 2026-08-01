@@ -1,0 +1,1 @@
+# Given a 1-based indexing array arr[] of non-negative integers and an integer sum. Find the left and right indexes(1-based indexing) of that subarray that is equal to the given sum. In case of multiple subarrays, find the subarray indexes which come first on moving from left to right. If no such subarray exists return an array consisting of element -1.
